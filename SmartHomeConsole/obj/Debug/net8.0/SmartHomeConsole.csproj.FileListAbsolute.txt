@@ -12,3 +12,4 @@ D:\Frontend Frameworks\C# console app\SmartHomeConsole\obj\Debug\net8.0\refint\S
 D:\Frontend Frameworks\C# console app\SmartHomeConsole\obj\Debug\net8.0\SmartHomeConsole.pdb
 D:\Frontend Frameworks\C# console app\SmartHomeConsole\obj\Debug\net8.0\SmartHomeConsole.genruntimeconfig.cache
 D:\Frontend Frameworks\C# console app\SmartHomeConsole\obj\Debug\net8.0\ref\SmartHomeConsole.dll
+D:\Frontend Frameworks\C# console app\SmartHomeConsole\obj\Debug\net8.0\SmartHomeConsole.sourcelink.json
